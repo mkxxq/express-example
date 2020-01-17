@@ -1,0 +1,9 @@
+server:
+  port: 4000
+
+database:
+  host: 127.0.0.1
+  database: wcp_dev
+  username: root
+  password: root
+  dialect: mysql

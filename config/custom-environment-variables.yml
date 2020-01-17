@@ -1,0 +1,9 @@
+# This file mainly loads the environment variables, and it will override the values
+# in other configuration files.
+
+database:
+  host: DB_HOST
+  database: DB_NAME
+  username: DB_USERNAME
+  password: DB_PASSWORD
+  dialect: mysql
